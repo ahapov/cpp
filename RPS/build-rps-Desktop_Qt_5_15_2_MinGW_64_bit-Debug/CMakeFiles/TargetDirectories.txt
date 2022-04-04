@@ -1,0 +1,5 @@
+D:/projects/c++/RPS/build-rps-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rps.dir
+D:/projects/c++/RPS/build-rps-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/projects/c++/RPS/build-rps-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/projects/c++/RPS/build-rps-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rps_autogen_timestamp_deps.dir
+D:/projects/c++/RPS/build-rps-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rps_autogen.dir
