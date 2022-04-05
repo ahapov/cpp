@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="RC_ICONS">D:/projects/c++/practicing/Snake/RC_ICONS</file>
+<file alias="=">D:/projects/c++/practicing/Snake/=</file>
+<file alias="logo.png">D:/projects/c++/practicing/Snake/logo.png</file>
+</qresource>
+</RCC>
